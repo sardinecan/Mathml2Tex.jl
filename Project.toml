@@ -1,2 +1,10 @@
+name = "Mathml2Tex"
+authors = ["sardinecan <morvan.josselin@gmail.com>"]
+version = "0.2.0"
+
 [deps]
 EzXML = "8f5d6c58-4d21-5cfd-889c-e3ad7ee6a615"
+
+[compat]
+julia = "1.10"
+EzXML = "1.1.0"
